@@ -1,1 +1,2 @@
-git
+git tutorials are started from 12 october
+
